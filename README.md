@@ -4,7 +4,7 @@
 
 Project ini merupakan implementasi analisis data untuk Final Task Big Data Analyst Kimia Farma.
 
-Saya menggunakan Google BigQuery untuk pengolahan dan analisis data dengan SQL, kemudian menggunakan Looker Studio untuk menyajikan hasil analisis dalam bentuk dashboard interaktif.
+Saya menggunakan Google BigQuery untuk pengolahan dan analisis data dengan SQL, kemudian menggunakan Google Data Studio untuk menyajikan hasil analisis dalam bentuk dashboard interaktif.
 
 Fokus analisis adalah memahami performa bisnis berdasarkan transaksi, nett sales, nett profit, wilayah, cabang, dan produk.
 
@@ -33,7 +33,7 @@ kf_analysis
       +---- SQL Analysis
       |
       v
-Looker Studio
+Google Data Studio
       |
       v
 Insight & Rekomendasi
@@ -94,7 +94,7 @@ Setiap script diberi komentar untuk menjelaskan tujuan dan logika query yang dig
 
 ## Dashboard
 
-Dashboard Looker Studio mencakup:
+Dashboard Data Studio mencakup:
 
 - Total Transactions
 - Nett Sales
@@ -147,7 +147,7 @@ Melakukan pemeriksaan lebih lanjut terhadap cabang yang menunjukkan perbedaan an
 
 - Google BigQuery
 - SQL
-- Looker Studio
+- Google Data Studio
 - GitHub
 - Microsoft PowerPoint
 
@@ -176,9 +176,7 @@ Project ini dibuat sebagai bagian dari pembelajaran dan Final Task Big Data Anal
 
 ## Author
 
-**Achmad Kamil**
-
-GitHub: `kahmadsyt`
+**Handmade with ❤️ by Achmad Kamil © 2026**
 
 ## Disclaimer
 

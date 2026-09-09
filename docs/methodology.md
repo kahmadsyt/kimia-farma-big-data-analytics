@@ -25,7 +25,7 @@ kf_analysis
       +---- Query SQL
       |
       v
-Looker Studio
+Google Data Studio
       |
       v
 Insight Bisnis
@@ -63,7 +63,7 @@ Analisis mencakup performa tahunan dan bulanan, kontribusi provinsi, distribusi 
 
 ## 6. Visualisasi
 
-Hasil analisis digunakan untuk membuat dashboard interaktif di Looker Studio yang mencakup KPI, tren sales/profit, analisis provinsi, peta profit, analisis cabang, dan produk teratas.
+Hasil analisis digunakan untuk membuat dashboard interaktif di Google Data Studio yang mencakup KPI, tren sales/profit, analisis provinsi, peta profit, analisis cabang, dan produk teratas.
 
 ## 7. Pertimbangan Penggunaan Inventory
 
