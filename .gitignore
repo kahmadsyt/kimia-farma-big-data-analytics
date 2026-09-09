@@ -1,0 +1,18 @@
+# Dataset mentah
+*.csv
+*.xlsx
+*.xls
+
+# File sementara
+*.tmp
+*.temp
+*.log
+
+# Kredensial / informasi rahasia
+.env
+*.json
+service-account*.json
+credentials*.json
+
+# File sementara PowerPoint
+~$*.pptx
